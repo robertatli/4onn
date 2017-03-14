@@ -1,0 +1,89 @@
+body{
+	background-color: #494949;
+	color: white;
+}
+.main{
+	background-color: lightgrey;
+	color:black;
+	border: 4px solid grey;
+	border-radius: 5px;
+	position: absolute;
+	top: 10%;
+	left: 25%;
+	width: 50%;
+	height:750px;
+}
+.name{
+	text-align: center;
+	font-family: arial;
+	border: 4px solid grey;
+	border-radius: 5px;
+	position: relative;
+	top:0.5%;
+	left: 0.5%;
+	right:0.5%;
+	width: 98%;
+}
+.quiz{
+	text-align: center;
+	font-family: arial;
+	border: 4px solid grey;
+	border-radius: 5px;
+	position: relative;
+	top:4%;
+	left: 0.5%;
+	right:0.5%;
+	width: 98%;
+	height: 615px;
+}
+.spurning{
+	text-align: center;
+	font-family: arial;
+	border: 4px solid grey;
+	border-radius: 5px;
+	position: relative;
+	top:1%;
+	left: 0.5%;
+	right:0.5%;
+	width: 98%;
+	height: 350px;
+}
+h1{
+	position: relative;
+	top:30%;
+}
+.svor{
+	text-align: center;
+	font-family: arial;
+	border: 4px solid grey;
+	border-radius: 5px;
+	position: relative;
+	top:4%;
+	left: 0.5%;
+	right:0.5%;
+	width: 98%;
+	height: 215px;
+	display: flex;
+	flex-wrap: wrap;
+}
+span{
+	border:4px solid grey;
+	border-radius: 5px;
+	width: 48%;
+	position: relative;
+	top:2%;
+	left: 0.5%;
+	right:0.5%;
+	height: 43%;
+}
+.active{
+	border:4px solid grey;
+	border-radius: 5px;
+	width: 48%;
+	position: relative;
+	top:2%;
+	left: 0.5%;
+	right:0.5%;
+	height: 43%;
+	background-color: red;
+}
