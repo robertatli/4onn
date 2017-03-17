@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pizza_Pontun>
+	<crust_Type>Original</crust_Type>
+	<toppings>Cheese, pepperoni, garlic</toppings>
+	<status>Cooking</status>
+	<cusomer>
+		<name>nafn</name>
+		<phone>simi</phone>
+	</cusomer>
+</Pizza_Pontun>

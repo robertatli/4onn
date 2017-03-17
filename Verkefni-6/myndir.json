@@ -1,0 +1,16 @@
+{
+	"myndaUpplysingar":[
+		{
+			"myndaVefsloðir": "images/Giraffes.jpg",
+			"myndaHeiti": "Giraffes"
+		},
+		{
+			"myndaVefsloðir": "images/ljon.jpg",
+			"myndaHeiti": "lion"
+		},
+		{
+			"myndaVefsloðir": "images/panda.jpg",
+			"myndaHeiti": "panda"
+		}
+	]
+}
